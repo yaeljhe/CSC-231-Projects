@@ -1,1 +1,1 @@
-# CSC-231-Projects
+# CSC231-Projects
